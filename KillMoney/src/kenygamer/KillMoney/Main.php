@@ -54,7 +54,7 @@ class Main extends PluginBase implements Listener{
       return;
     }
     $this->economyAPI = $this->getServer()->getPluginManager()->getPlugin("EconomyAPI");
-    if(!is_dir($this->getServer()->getDataPath()."EconomyAPI")){
+    if(!is_dir($this->getServer()->getDataPath()."plugins/EconomyAPI")){
       $this->getLogger()->warning("Disabling plugin, EconomyAPI dependency not found");
       $this->getPluginLoader()->disablePlugin($this);
       return;
