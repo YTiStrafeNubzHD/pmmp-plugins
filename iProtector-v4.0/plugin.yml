@@ -4,6 +4,7 @@ version: 4.0.3#3.1b
 api:
  - 3.0.0-ALPHA8
  - 3.0.0-ALPHA9
+ - 3.0.0-ALPHA10
 
 author: kenygamer
 website: https://github.com/kenygamer/pmmp-plugins/blob/master/iProtector-v4.0
