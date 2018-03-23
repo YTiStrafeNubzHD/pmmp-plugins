@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/pmmp-plugins.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/pmmp-plugins)
+
 # pmmp-plugins
 ![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/kenygamer/pmmp-plugins.svg)
 ![Open issues](http://isitmaintained.com/badge/open/kenygamer/pmmp-plugins.svg)
